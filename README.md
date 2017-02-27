@@ -1,2 +1,2 @@
 # personal-library-angular
-A personal library web application written in AngularJS and Node.js
+A personal library web application written in Angular and Node.js
